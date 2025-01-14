@@ -1,0 +1,1 @@
+This repository demonstrates a common error in COBOL programs: the failure to initialize numeric variables before use.  The `bug.cob` file contains a program that attempts to increment a numeric field without initializing it, potentially leading to unpredictable results.  The solution, `bugSolution.cob` shows how to properly initialize the variable before performing an operation.
